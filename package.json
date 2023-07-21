@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "name": "aribotle",
+  "version": "0.0.0",
+  "description": "A chrome extension for analyzing text for logical fallacies",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/clairefro/aribotle.git"
   },
   "scripts": {
     "build": "node utils/build.js",
