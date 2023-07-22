@@ -3,7 +3,9 @@
   "name": "Aribotle",
   "description": "A chrome extension for analyzing text for logical fallacies",
   "options_page": "options.html",
-  "background": { "service_worker": "background.bundle.js" },
+  "background": { 
+    "service_worker": "background.bundle.js" 
+  },
   "action": {
     "default_popup": "popup.html",
     "default_icon": "icon-34.png"
